@@ -1,16 +1,16 @@
-# EvHDR-GS: Event-guided HDR Video Reconstruction with 3D Gaussian Splatting
+# EvHDR-NeRF: Building High Dynamic Range Radiance Fields with Single Exposure Images and Events
 
-[EvHDR-GS: Event-guided HDR Video Reconstruction with 3D Gaussian Splatting](https://zehaoc.github.io/EvHDR-GS/).
+[EvHDR-NeRF: Building High Dynamic Range Radiance Fields with Single Exposure Images and Events](https://zehaoc.github.io/EvHDR-NeRF/).
 
 If you find Event-LE useful for your work please cite:
 ```
 @inproceedings{chen2025evhdr,
-  title={EvHDR-GS: Event-guided HDR Video Reconstruction with 3D Gaussian Splatting},
-  author={Chen, Zehao and Lu, Zhan and Ma, De and Tang, Huajin and Jiang, Xudong and Zheng, Qian and Pan, Gang},
+  title={EvHDR-NeRF: Building High Dynamic Range Radiance Fields with Single Exposure Images and Events},
+  author={Chen, Zehao and Liao, Zhanfeng and Ma, De and Tang, Huajin and Zheng, Qian and Pan, Gang},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   volume={39},
   number={3},
-  pages={2367--2375},
+  pages={2376--2384},
   year={2025}
 }
 ```
